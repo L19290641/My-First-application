@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My first aplication</string>
+
+    <string name="tvSaludo">Hola mundo</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvPass">Contraseña</string>
+    <string name="etUser">Ingrese el Usuario.</string>
+    <string name="etPass">Ingrese la Contraseña</string>
+
+</resources>

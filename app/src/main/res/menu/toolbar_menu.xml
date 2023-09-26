@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Borrar"
+        android:id="@+id/miBorrar"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="ifRoom" />
+
+    <item android:title="Info"
+        android:id="@+id/miInfo"
+        android:icon="@drawable/ac_info"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:title="Configuracion"
+        android:id="@+id/miConfi"
+        app:showAsAction="never"
+        />
+
+</menu>
